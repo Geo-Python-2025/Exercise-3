@@ -9,6 +9,12 @@ Below you have a series of problems in which you are asked to edit the notebook 
 - **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
 - **We are [working in pairs](https://geo-python-site.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise.
 
+## Automatic feedback
+
+- You will get immediate feedback each time you edit your assignment and push the changes to github.
+- The feedback includes a list of possible improvements and a preliminary grade.
+- The feedback bot cannot grade everything, such as markdown cells, so your assignment will also be checked by a course teacher.
+
 ## Where to find help
 
 - Review the [materials for Lesson 3](https://geo-python-site.readthedocs.io/en/latest/lessons/L3/overview.html)
